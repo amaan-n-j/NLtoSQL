@@ -10,4 +10,4 @@ Create a new enviornment (safe side)
         
 2] Install all the requirements
 
-3] Opne the jupyter-notebook
+3] Open the jupyter-notebook
